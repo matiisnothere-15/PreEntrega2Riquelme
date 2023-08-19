@@ -4,6 +4,10 @@
     padding: 20px;
     border-radius: 5px;
     padding-left: 20%;
+    
+}
+.formulario label{
+    color: aliceblue;
 }
 .titulo_formulario{
     font-family: Arial, Helvetica, sans-serif;
@@ -20,7 +24,8 @@
 }
 form{
     background-size: cover;
-    background-color: #fff;
+    background-color: #ffffff;
+    align-content: center;
 }
 @media(max-width:767px){
 
